@@ -1,4 +1,4 @@
-# Sirensense
+# SirenSense
 
 ### `train.py`
 This script handles the full training pipeline, including stratified data splitting, model definition, and checkpoint saving.
